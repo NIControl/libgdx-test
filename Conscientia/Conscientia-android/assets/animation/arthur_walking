@@ -1,0 +1,32 @@
+arthur_walking.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+walking
+  rotate: false
+  xy: 2, 88
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: 2
+walking
+  rotate: false
+  xy: 2, 2
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: 1
+walking
+  rotate: false
+  xy: 64, 174
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: 4
+walking
+  rotate: false
+  xy: 2, 174
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: 3
